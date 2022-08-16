@@ -13,5 +13,5 @@ Ability to set the ownership of a State.
 
 ## Change Log
 ### 0.1.1
--> Changed location where pop data option where coming from preventing the pop type, religion and culture from being effected from any cahnges made to the history files
--> fixed a bug that prevented pop data from being exported correctly
+-> Changed location where pop data option where coming from preventing the pop type, religion and culture from being effected from any cahnges made to the history files </br>
+-> fixed a bug that prevented pop data from being exported correctly</br>
