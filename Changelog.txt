@@ -1,5 +1,0 @@
-///////////////////////////
-V0.1.1 Changelog
-///////////////////////////
--> Changed location where pop data option where coming from preventing the pop type, religion and culture from being effected from any cahnges made to the history files
--> fixed a bug that prevented pop data from being exported correctly
