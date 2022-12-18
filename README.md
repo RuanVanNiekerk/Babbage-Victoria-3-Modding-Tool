@@ -1,4 +1,4 @@
-# Babbage-Victoria-3-Modding-Tools-Release
+# Babbage-Victoria-3-Modding-Tools
 Windows Forms application used for editing Victoria 3 game data
 
 ## Feedback Form
